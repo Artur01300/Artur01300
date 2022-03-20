@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-154360?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-239B56?style=for-the-badge&logo=MongoDB&logoColor=000000)
 
-<h1>< Portfolio ></h1>
+<h1>Portfolio</h1>
 
 [![Projet Meuble](https://img.shields.io/badge/Projet_Meuble-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://artur01300.github.io/ProjetMeuble/)
 
@@ -37,10 +37,8 @@
 </p>
 
 #### Technologies: HTML 5, SASS, Bootstrap
-</br>
 
 ***
-
    
 [![Groupomania](https://img.shields.io/badge/Groupomania-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/OC_P7)
 
@@ -49,11 +47,9 @@
 </p>
 
 #### Technologies: Node.js, MySQL, Vue.JS, Axios
-</br>
 
 ***
 
-   
 [![Piquante](https://img.shields.io/badge/Piquante-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/OC_P6)
 
 <p>
@@ -61,7 +57,6 @@
 </p>
 
 #### Technologies: Node.js, Express, MongoDB, API
-</br>
 
 ***
 
@@ -73,8 +68,6 @@
 </p>
 
 #### Technologies: JavaScript, API, Bootstrap
-
-</br>
 
 ***
    
@@ -97,33 +90,33 @@
 </p>
 
 #### Technologies: SASS, animations CSS
-   
+***
 
-<h2>< OS ></h2>
+<h2>OS</h2>
 
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-F1C40F?style=for-the-badge&logo=Linux&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-797D7F?style=for-the-badge&logo=Apple&logoColor=white)
 
-<h2>< Editors ></h2>
+<h2>Editors</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime](https://img.shields.io/badge/Sublime-DC7633.svg?style=for-the-badge&logo=Sublime&logoColor=white)
 
-<h2>< Design ></h2>
+<h2>Design</h2>
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-2C4762.svg?style=for-the-badge&logo=Photoshop&logoColor=3498DB)
 
 
-<h2>< Social > 👥</h2>
+<h2>Social 👥</h2>
 
 [![Linkedin](https://img.shields.io/badge/-Artur-2E86C1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/artur-karapetyan-8058b61a7/) 
 [![codePen](https://img.shields.io/badge/codepen-797D7F?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Artur_K)
 
-<h2>< CV ></h2>
+<h2>CV</h2>
 
-[![CV](https://img.shields.io/badge/Franch-F39C12?style=for-the-badge&logo=docusign&logoColor=000000)](<img src="CV_fr.pdf">)
-[![CV](https://img.shields.io/badge/English-138D75?style=for-the-badge&logo=docusign&logoColor=000000)](<img src="CV_en.pdf">)
+[![CV](https://img.shields.io/badge/Franch-F39C12?style=for-the-badge&logo=docusign&logoColor=000000)](https://github.com/Artur01300/Artur01300/blob/master/CV_fr.pdf)
+[![CV](https://img.shields.io/badge/English-138D75?style=for-the-badge&logo=docusign&logoColor=000000)](https://github.com/Artur01300/Artur01300/blob/master/CV_en.pdf)
 
 
 ![Linepau GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur01300&show_icons=true&theme=radical)
