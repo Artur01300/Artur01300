@@ -71,15 +71,13 @@
 
 ***
    
-[![Optimiser un site web existant](https://img.shields.io/badge/Optimiser_un_site_web_existant-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/OC_P4)
+[![Optimizing an existing website](https://img.shields.io/badge/Optimizing-an-existing-website?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/OC_P4)
 
 <p>
    SEO analysis by improving its technical performance and website speed.
 </p>
 
 #### Technologies: SEO
-
-</br>
 
 ***
    
@@ -106,7 +104,6 @@
 <h2>Design</h2>
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-2C4762.svg?style=for-the-badge&logo=Photoshop&logoColor=3498DB)
-
 
 <h2>Social 👥</h2>
 
