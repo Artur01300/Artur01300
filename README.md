@@ -71,7 +71,7 @@
 
 ***
    
-[![Optimizing an existing website](https://img.shields.io/badge/Optimizing_an_existing_website?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/OC_P4)
+[![Optimizing an existing website](https://img.shields.io/badge/Optimizing_an_existing_website-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/OC_P4)
 
 <p>
    SEO analysis by improving its technical performance and website speed.
