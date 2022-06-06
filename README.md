@@ -6,7 +6,7 @@
 <p>
     I specialize in web development by interest and passion.</br>
     For the professional license, I obtained my Web Developer diploma in 2021 (in France).</br>
-    I am very enthusiastic about the idea of ​​working or doing an internship for you.
+    I am very enthusiastic about the idea of ​​working for you.
     Finely analyzing your needs, designing a solution, implementing it by proposing development that respects standards and ensuring follow-up are my priorities.
     I'm open to new ideas and concepts so don't hesitate to contact me.
 </p>
