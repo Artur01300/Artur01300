@@ -30,7 +30,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-239B56?style=for-the-badge&logo=MongoDB&logoColor=000000)
 ![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=GraphQL&logoColor=000000)
 
+<br>
+
 <h1>Portfolio</h1>
+
 
 [![GraphQL_E_Commerce_APP](https://img.shields.io/badge/GraphQL_E_Commerce_APP-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/GraphQL_E-Commerce-APP)
 
@@ -38,11 +41,15 @@
     GraphQL training
 </p>
 
+***
+
 [![Shopify_dev](https://img.shields.io/badge/Shopify_dev-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/Shopify-dev)
 
 <p>
     Shopify training
 </p>
+
+***
 
 [![Projet Meuble](https://img.shields.io/badge/Projet_Meuble-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://artur01300.github.io/ProjetMeuble/)
 
