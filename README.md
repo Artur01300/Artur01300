@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-21618C?style=for-the-badge&logo=TypeScript&logoColor=000000)
+![Liquid](https://img.shields.io/badge/-Liquid-%96BF48?style=for-the-badge&logo=Liquid&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/Sass-7D3C98?style=for-the-badge&logo=Sass&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -27,8 +28,21 @@
 ![Exress.js](https://img.shields.io/badge/Exress.js-%23777BB4.svg?style=for-the-badge&logo=Exress.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-154360?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-239B56?style=for-the-badge&logo=MongoDB&logoColor=000000)
+![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=GraphQL&logoColor=000000)
 
 <h1>Portfolio</h1>
+
+[![GraphQL_E_Commerce_APP](https://img.shields.io/badge/GraphQL_E_Commerce_APP-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/GraphQL_E-Commerce-APP)
+
+<p>
+    GraphQL training
+</p>
+
+[![Shopify_dev](https://img.shields.io/badge/Shopify_dev-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://github.com/Artur01300/Shopify-dev)
+
+<p>
+    Shopify training
+</p>
 
 [![Projet Meuble](https://img.shields.io/badge/Projet_Meuble-F39C12?style=for-the-badge&logo=cliqz&logoColor=000000)](https://artur01300.github.io/ProjetMeuble/)
 
