@@ -180,8 +180,8 @@ Restaurant menu application where users can browse menus and compose their meal.
 
 ---
 
-## GitHub stats
+## GitHub profile
 
-![Artur Karapetyan GitHub stats](https://github-readme-stats.vercel.app/api?username=Artur01300&show_icons=true&theme=radical)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Artur01300-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Artur01300)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur01300&layout=compact&theme=radical)](https://github.com/Artur01300/github-readme-stats)
+This profile highlights my public projects, training work and professional web development activity.
